@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: algamoney-api2
 Implementation-Version: 1.0.0-SNAPSHOT
-Built-By: Eduardo
+Built-By: eduardo
 Implementation-Vendor-Id: com.algaworks.algamonet-api2
-Build-Jdk: 1.8.0_151
+Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/algamoney-ap
  i2/
 Created-By: Maven Integration for Eclipse
